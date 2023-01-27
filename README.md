@@ -13,17 +13,17 @@ Abaixo está o Diagrama de Classes ilustrando o relacionamento das entidades e s
 Foi utilizada a plataforma Railway.app para a realização do deploy da API de modo que os endpoints abaixo podem ser consultados diretamente pelo navegador.
 
 - **GetAll Person**
-    - person-api-production-ad0f.up.railway.app/person
+    - https://person-api-production-ad0f.up.railway.app/person
 - **GetAll Address**
-    - person-api-production-ad0f.up.railway.app/address
+    - https://person-api-production-ad0f.up.railway.app/address
 - **GetAll PersonAddress**
-    - person-api-production-ad0f.up.railway.app/personaddress
+    - https://person-api-production-ad0f.up.railway.app/personaddress
 - **GetById Person**
-    - person-api-production-ad0f.up.railway.app/person/{id}
+    - https://person-api-production-ad0f.up.railway.app/person/{id}
 - **GetById Address**
-    - person-api-production-ad0f.up.railway.app/address/{id}
+    - https://person-api-production-ad0f.up.railway.app/address/{id}
 - **GetById PersonAddress**
-    - person-api-production-ad0f.up.railway.app/personaddress/{id}
+    - https://person-api-production-ad0f.up.railway.app/personaddress/{id}
 
 
 ### Tecnologias utilizadas
