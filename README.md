@@ -1,7 +1,6 @@
 # person-api
 ## Avaliação Desenvolvedor(a) Back-end => Desafio Java
-<br>
-  
+
 ### O projeto
 Desenvolver uma API REST utilizando Java e Spring Boot, ao qual deve permitir a gestão da entidade Pessoa (_Person_) e realizar a Criação, Edição, Consulta e Listagem de Pessoas.  
   
@@ -10,7 +9,7 @@ Utilizando conceitos de modelagem de dados foram implementadas duas novas entida
 Abaixo está o Diagrama de Classes ilustrando o relacionamento das entidades e seus campos:  
 ![Diagrama de Classes](https://github.com/pctmoraes/person-api/blob/main/diagrama_de_classe.jpg)
   
-### Deploy e endpoints
+### ➡️ Deploy e endpoints 🛠️
 Foi utilizada a plataforma Railway.app para a realização do deploy da API de modo que os endpoints abaixo podem ser consultados diretamente pelo navegador.
 
 - **GetAll Person**
