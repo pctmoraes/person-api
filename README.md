@@ -9,7 +9,7 @@ Utilizando conceitos de modelagem de dados foram implementadas duas novas entida
 Abaixo está o Diagrama de Classes ilustrando o relacionamento das entidades e seus campos:  
 ![Diagrama de Classes](https://github.com/pctmoraes/person-api/blob/main/diagrama_de_classe.jpg)
   
-### ➡️ Deploy e endpoints 🛠️
+### ➡️ Deploy e endpoints 🛠️ [Update: deploy desligado]
 Foi utilizada a plataforma Railway.app para a realização do deploy da API de modo que os endpoints abaixo podem ser consultados diretamente pelo navegador.
 
 - **GetAll Person**
